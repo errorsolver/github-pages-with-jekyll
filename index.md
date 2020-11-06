@@ -1,3 +1,8 @@
-# Welcome to my blog
+# THIS IS MY BLOG
 
-I'm glad you are here. I plan to talk about ...
+Nice to meet you
+
+---
+Name : Vincent
+
+Class : 12
